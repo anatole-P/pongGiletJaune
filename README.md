@@ -1,6 +1,6 @@
 # Encore un pong
 
-https://anatole-P.github.io/pongGiletJaune/
+https://anatole-p.github.io/pongGiletJaune/
 
 Pour jouer...
 
