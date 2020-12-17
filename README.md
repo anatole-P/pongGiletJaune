@@ -1,6 +1,6 @@
 # Encore un pong
 
-https://davidmarsprof.github.io/pong-wimbledon/
+https://anatole-P.github.io/pongGiletJaune/
 
 Pour jouer...
 
