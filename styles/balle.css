@@ -1,5 +1,5 @@
 .balle{
-    background-color: #fff;
+   /*background-color: #fff;*/
     --diamettre:40px;
     width: var(--diamettre);
     height: var(--diamettre);
