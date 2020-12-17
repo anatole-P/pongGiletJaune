@@ -4,7 +4,7 @@ https://davidmarsprof.github.io/pong-wimbledon/
 
 Pour jouer...
 
-### Rafael
+### CRS
 touches A / Q 
-### Roger
+### Gilet Jaune
 touches P / M 
